@@ -16,7 +16,7 @@ Bot Telegram bán account ChatGPT/Claude/Gemini... Thanh toán qua QR VietQR, bo
 ```bash
 # 1. Clone + cài dependencies
 git clone <url>
-cd Bot_telegram
+cd shop_telegram
 pip install -r requirements.txt   # python-telegram-bot, requests, python-dotenv
 
 # 2. Tạo .env
