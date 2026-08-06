@@ -1,0 +1,24 @@
+{
+  "ChatGPT": {
+    "chatgpt_plus_1m": {
+      "name": "ChatGPT Plus 1 tháng",
+      "price": 220000,
+      "stock": 49,
+      "cat": "ChatGPT"
+    },
+    "chatgpt_plus_3m": {
+      "name": "ChatGPT Plus 3 tháng",
+      "price": 500000,
+      "stock": 9,
+      "cat": "ChatGPT"
+    }
+  },
+  "Claude": {
+    "claude_pro_1m": {
+      "name": "Claude Pro 1 tháng",
+      "price": 400000,
+      "stock": 30,
+      "cat": "Claude"
+    }
+  }
+}

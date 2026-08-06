@@ -1,0 +1,12 @@
+# Bí mật + cấu hình cá nhân
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Dữ liệu runtime thường không muốn đẩy (bỏ comment nếu muốn giữ git)
+# products.json
